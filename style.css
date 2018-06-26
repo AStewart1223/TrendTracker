@@ -1,0 +1,51 @@
+body {
+  background-color:DodgerBlue ;
+  color: purple;
+}
+
+#SiteTitle {
+  color:DarkMagenta;
+}
+
+header {
+  background-color:Thistle ;
+  text-size "7"
+}
+
+section {
+  background-color: SlateBlue;
+  color: white;
+  width:50%;
+ float:right;
+}
+
+footer {
+  background-color: grey;
+  clear:both;
+  border:white;
+}
+
+
+
+  
+  #LeftNav{
+    float:left;
+    width:50%;
+    
+     
+  }
+  
+    
+
+    
+  
+    
+    
+  
+  
+  
+  
+}
+
+
+
